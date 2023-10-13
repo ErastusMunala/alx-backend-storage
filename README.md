@@ -1,1 +1,2 @@
-# alx-backend-storage - MySQL advanced: Back-end SQL MySQL
+# alx-backend-storage
+0x00. MySQL advanced: Back-end SQL MySQL
