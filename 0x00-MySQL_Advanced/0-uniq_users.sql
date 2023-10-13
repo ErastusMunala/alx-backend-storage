@@ -1,4 +1,4 @@
---creates a table userswith specific users.
+-- create a table users with specific users.
 
 CREATE TABLE IF NOT EXISTS users (
 	id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
